@@ -1,4 +1,4 @@
-#Global Currency Converter using Python and CustomTKinter
+# Global Currency Converter using Python and CustomTKinter
 
  **Convert your currency from anywhere in the world**  
 
@@ -21,26 +21,17 @@ If you have any tips, suggestions or feedback, feel free to fork the project and
 
 ## 📸 Project up and running
 
+### Buttons and selectors
+<center>![Buttons and selectors](https://github.com/user-attachments/assets/8912450c-572d-408e-a540-156f2b57fc06)</center>
 
-![Buttons and selectors](https://github.com/user-attachments/assets/8912450c-572d-408e-a540-156f2b57fc06)
+### Conversion list
+<center>![Conversion list](https://github.com/user-attachments/assets/f05f10b9-b38e-4764-aa68-1f7962883649)</center>
 
+### Conversion result
+<center>![Conversion result](https://github.com/user-attachments/assets/30d6f2bd-a192-4eb7-bd1f-da0bf22746cc)</center>
 
-
-
-![Conversion list"](https://github.com/user-attachments/assets/f05f10b9-b38e-4764-aa68-1f7962883649)
-
-
-
-
-![Conversion result](https://github.com/user-attachments/assets/30d6f2bd-a192-4eb7-bd1f-da0bf22746cc)
-
-
-
-
-![Project](https://github.com/user-attachments/assets/6e9470fa-a63c-4c30-bf23-a994fd4a5a18)
-
-
-
+### Project
+<center>![Project](https://github.com/user-attachments/assets/6e9470fa-a63c-4c30-bf23-a994fd4a5a18)</center>
 
 ---  
 
