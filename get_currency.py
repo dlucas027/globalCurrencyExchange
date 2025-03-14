@@ -1,13 +1,11 @@
 import xmltodict  #list currency
 
 def name_currency():
-    with open("list_currency.xml", "rb") as arquive_currency:  #Abrir o arquivo em modo de leitura e dar o nome pra ele
-        dict_currency = xmltodict.parse(arquive_currency) #criar o dicionario (dict_currency) e passar o dicionario (xmltodict)
-    
+    with open("list_currency.xml", "rb") as arquive_currency:  #Open the file in read-only mode and give it a name
+        dict_currency = xmltodict.parse(arquive_currency) #create the dictionary (dict_currency) and pass the dictionary (xmltodict)
     
     currency = dict_currency["xml"]
     return currency
-
 
 #get currency
 def disp_converts():
