@@ -23,7 +23,7 @@ def loading_target_currency(select_currency):
 
 
 select_base_currency =customtkinter.CTkOptionMenu(window, values=list(convert.keys()), command=loading_target_currency)#select coins icon
-select_target_currency =customtkinter.CTkOptionMenu(window, values=["select your base currency"])
+select_target_currency =customtkinter.CTkOptionMenu(window, values=["select your target currency"])
 
 def convert_currency():   
     source_currency = select_base_currency.get()
@@ -52,7 +52,7 @@ target_currency.pack(padx=10, pady=10)
 select_target_currency.pack(padx=10)
 button_convert.pack(padx=10, pady=10)
 text_exchange.pack(padx=10, pady=10)
-list_currency.pack(padx=10, pady=10)
+list_currency.pack(padx=10, pady=10)#Use ipadx and ipady to increase the widget's internal space
 
 #this looping keeps the window active
 window.mainloop()
