@@ -47,15 +47,16 @@ If you have any tips, suggestions or feedback, feel free to fork the project and
 
 ---
 
-### 
+### Global currency exchange
 ![image](https://github.com/user-attachments/assets/44a35db8-9b4c-42ac-aed2-2bdf5e8cd1f9)
 
 ---
 
-### Project
+### Zoom
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6f6370a6-1676-4d41-b77f-d8e26af82d71" alt="Project" />
 </p>
+
 
 
 
