@@ -32,7 +32,12 @@ If you have any tips, suggestions or feedback, feel free to fork the project and
 ## Project Features
 
 ### Buttons and selectors
-![Buttons and selectors](https://github.com/user-attachments/assets/8912450c-572d-408e-a540-156f2b57fc06)
+1) Selecione a moeda de destino
+2) Selecione a moeda base
+3) Botão de conversão
+4) Lista de moedas disponiveis na aplicação
+![image](https://github.com/user-attachments/assets/ee854087-140b-45b0-815a-e77c23f7b0d3)
+
 
 ### Conversion result
 ![Conversion result](https://github.com/user-attachments/assets/30d6f2bd-a192-4eb7-bd1f-da0bf22746cc)
