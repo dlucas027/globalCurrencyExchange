@@ -54,9 +54,10 @@ If you have any tips, suggestions or feedback, feel free to fork the project and
 
 ### Zoom
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6f6370a6-1676-4d41-b77f-d8e26af82d71" alt="Project" />
+  <img src="https://github.com/user-attachments/assets/e8aa84ad-a803-44ea-8409-7512c29cf6ef" />
 </p>
 
+![image](https://github.com/user-attachments/assets/9e55021f-3c13-4ae2-bd77-f1a5cd858011)
 
 
 
