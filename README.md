@@ -32,11 +32,14 @@ If you have any tips, suggestions or feedback, feel free to fork the project and
 ## Project Features
 
 ### Buttons and selectors
-1) Selecione a moeda de destino
-2) Selecione a moeda base
-3) Botão de conversão
-4) Lista de moedas disponiveis na aplicação
-![image](https://github.com/user-attachments/assets/ee854087-140b-45b0-815a-e77c23f7b0d3)
+1) Select the base currency
+2) Select the target currency
+3) Conversion button
+4) Conversion result
+5) List of currencies available in the application
+   
+![image](https://github.com/user-attachments/assets/2748a314-fa45-4eab-8df1-f972f37abb7e)
+
 
 
 ### Conversion result
